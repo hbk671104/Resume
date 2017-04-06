@@ -6,7 +6,7 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 title = "项目"
-subtitle = "BK之码不停蹄"
+subtitle = ""
 widget = "projects"
 
 # Order that this section will appear in.
