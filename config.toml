@@ -1,6 +1,6 @@
 baseurl = "https://example.com"
 title = "简历 - 黄博康"
-copyright = "&copy; 2016 Bokang Huang"
+copyright = "&copy; 2017 Bokang Huang"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -149,34 +149,24 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "Home"
+  name = "主页"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "项目"
+  url = "#projects"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+    name = "教学"
+    url = "#teaching"
+    weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
-
-[[menu.main]]
-  name = "Contact"
+  name = "联系方式"
   url = "#contact"
-  weight = 6
+  weight = 4
 
 # Taxonomies.
 [taxonomies]

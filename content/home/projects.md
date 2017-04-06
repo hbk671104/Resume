@@ -5,8 +5,8 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Projects"
-subtitle = ""
+title = "项目"
+subtitle = "BK之码不停蹄"
 widget = "projects"
 
 # Order that this section will appear in.
@@ -22,16 +22,35 @@ view = 1
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-  name = "All"
+  name = "全部"
   tag = "*"
-  
-[[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+    name = "iOS"
+    tag = ".ios"
+
+[[filter]]
+    name = "Android"
+    tag = ".android"
+
+[[filter]]
+    name = "React Native"
+    tag = ".react-native"
+
+[[filter]]
+    name = "Objective-C"
+    tag = ".objective-c"
+
+[[filter]]
+    name = "Swift"
+    tag = ".swift"
+
+[[filter]]
+    name = "Java"
+    tag = ".java"
+
+[[filter]]
+    name = "Javascript"
+    tag = ".js"
 
 +++
-
