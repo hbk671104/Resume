@@ -177,6 +177,6 @@ defaultContentLanguageInSubdir = false
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
-# Configure the English version of the website.
-[languages.en]
-  languageCode = "en-us"
+# Configure the Chinese version of the website.
+[languages.zh]
+  languageCode = "zh"

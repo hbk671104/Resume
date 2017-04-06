@@ -12,7 +12,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "移动互联网开发",
+    "移动端开发",
     "Hip Hop音乐",
     "环球旅行"
   ]
