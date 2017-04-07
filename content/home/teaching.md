@@ -16,4 +16,4 @@ weight = 70
 
 BK曾经在以下课程担任过助教(TA)的角色:
 
-- IST 297D: Introduction to Application Development
+- [IST 297D: Introduction to Application Development](https://ist.psu.edu/node/1071)
