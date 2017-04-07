@@ -149,30 +149,29 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "主页"
-  url = "#about"
-  weight = 1
+    name = "主页"
+    url = "#about"
+    weight = 1
 
 [[menu.main]]
-  name = "项目"
-  url = "#projects"
-  weight = 2
+    name = "项目"
+    url = "#projects"
+    weight = 2
+
+[[menu.main]]
+    name = "经历"
+    url = "#experience"
+    weight = 3
 
 [[menu.main]]
     name = "教学"
     url = "#teaching"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
-  name = "联系方式"
-  url = "#contact"
-  weight = 4
-
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+    name = "联系"
+    url = "#contact"
+    weight = 5
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
