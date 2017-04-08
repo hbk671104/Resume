@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "云校"
 
 # Project summary to display on homepage.
-summary = "云校是一款为美术培训机构设计，通过把杂碎的教辅材料整合为课件的方式来达到提高机构教学质量的目的。"
+summary = "云校是一款为美术培训机构设计的教学管理系统，通过把杂碎的教辅材料整合为课件的方式来达到提高机构教学质量的目的。"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "cloudschool.jpg"

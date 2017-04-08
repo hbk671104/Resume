@@ -37,20 +37,4 @@ view = 1
     name = "React Native"
     tag = ".react-native"
 
-[[filter]]
-    name = "Objective-C"
-    tag = ".objective-c"
-
-[[filter]]
-    name = "Swift"
-    tag = ".swift"
-
-[[filter]]
-    name = "Java"
-    tag = ".java"
-
-[[filter]]
-    name = "Javascript"
-    tag = ".js"
-
 +++
