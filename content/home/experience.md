@@ -22,7 +22,7 @@ weight = 60
 
 ### 2015 年 6 月 ~ 2017 年 4 月
 
-[北京墨提斯科技有限公司](http://web.meishuquan.net/) iOS / React Native 开发工程师 (中国 北京)
+[北京墨提斯科技有限公司](http://web.meishuquan.net/) iOS / React Native 开发工程师 (中国, 北京)
 
 - 美术圈应用维护
 - 美术圈HD应用开发，iOS项目技术负责人
