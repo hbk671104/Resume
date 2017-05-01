@@ -36,6 +36,8 @@ BK曾在大学期间撰写了一款App，快速帮助同学们在Campus中找到
 
 2014年夏天BK开始就职于[Analytical Flavor Systems, LLC.](https://gastrograph.com/) 这是一家旨在利用神经网络与机器学习为专业酒厂提供低成本的产品质量控制解决方案的创业公司。BK主要负责品鉴工具-Gastrograph Review for iOS的开发工作，并在就职后段着手Android端的维护。
 
-现阶段BK就职于[美术圈](http://web.meishuquan.net/)，旨在借助移动互联网的力量向全国各地的美术高考学生提供优质的教辅内容。其间接触Swift，React Native等前沿移动开发技术，并努力朝着Web开发的方向渐渐靠拢。
+2015年夏天BK开始就职于[美术圈](http://web.meishuquan.net/)，旨在借助移动互联网的力量向全国各地的美术高考学生提供优质的教辅内容。其间接触Swift，React Native等前沿移动开发技术，并努力朝着Web开发的方向渐渐靠拢。
+
+现阶段BK就职于[逐鹿X](https://www.zhulux.com/)。
 
 业余时间里BK喜欢带着女朋友一起旅行, BK的梦想是走遍世界上的每一个角落。

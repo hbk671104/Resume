@@ -14,7 +14,13 @@ weight = 60
 
 +++
 
-### 2015 年 6 月 ~ 至今
+### 2017 年 5 月 ~ 至今
+
+[北京就是逐鹿科技有限公司](https://www.zhulux.com/) React Native 开发工程师 (中国 北京)
+
+- 逐鹿X应用维护
+
+### 2015 年 6 月 ~ 2017 年 4 月
 
 [北京墨提斯科技有限公司](http://web.meishuquan.net/) iOS / React Native 开发工程师 (中国 北京)
 
