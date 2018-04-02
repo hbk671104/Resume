@@ -13,7 +13,7 @@ image_preview = "zhulux.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ios"]`
-tags = ["ios", "android", "react-native", "js"]
+tags = ["react-native"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://itunes.apple.com/cn/app/%E9%80%90%E9%B9%BFx/id1048879999?mt=8"

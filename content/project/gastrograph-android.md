@@ -13,12 +13,11 @@ image_preview = "gastrograph.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ios"]`
-tags = ["android", "java"]
+tags = ["android"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://play.google.com/store/apps/details?id=com.gastrograph.testggapp&hl=en"
 
 # Does the project detail page use math formatting?
 math = false
-
 +++

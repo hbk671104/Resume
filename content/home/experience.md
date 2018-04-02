@@ -10,7 +10,7 @@ subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
 +++
 
 ### 2017 年 5 月 ~ 至今

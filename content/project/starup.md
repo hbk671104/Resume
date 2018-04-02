@@ -13,7 +13,7 @@ image_preview = "starup.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ios"]`
-tags = ["ios", "android", "react-native", "js"]
+tags = ["react-native"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://itunes.apple.com/cn/app/%E6%98%9F%E8%B5%B7alpha/id1047463346?mt=8"

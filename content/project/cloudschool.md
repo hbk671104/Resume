@@ -13,12 +13,11 @@ image_preview = "cloudschool.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ios"]`
-tags = ["ios", "android", "react-native", "js"]
+tags = ["react-native"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.pgyer.com/OWxT"
 
 # Does the project detail page use math formatting?
 math = false
-
 +++

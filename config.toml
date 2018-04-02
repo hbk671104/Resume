@@ -138,13 +138,13 @@ defaultContentLanguageInSubdir = false
     weight = 1
 
 [[menu.main]]
-    name = "项目"
-    url = "#projects"
+    name = "经历"
+    url = "#experience"
     weight = 2
 
 [[menu.main]]
-    name = "经历"
-    url = "#experience"
+    name = "项目"
+    url = "#projects"
     weight = 3
 
 [[menu.main]]

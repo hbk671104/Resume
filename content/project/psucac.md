@@ -13,12 +13,11 @@ image_preview = "availcheck.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ios"]`
-tags = ["ios", "swift"]
+tags = ["ios"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://itunes.apple.com/us/app/penn-state-available-computers/id866872546?mt=8"
 
 # Does the project detail page use math formatting?
 math = false
-
 +++

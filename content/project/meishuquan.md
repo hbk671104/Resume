@@ -13,12 +13,11 @@ image_preview = "meishuquan.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ios"]`
-tags = ["ios", "objective"]
+tags = ["ios"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://itunes.apple.com/cn/app/%E7%BE%8E%E6%9C%AF%E5%9C%88/id980944017?mt=8"
 
 # Does the project detail page use math formatting?
 math = false
-
 +++

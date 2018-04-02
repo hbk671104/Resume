@@ -13,12 +13,11 @@ image_preview = "gastrograph.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["ios"]`
-tags = ["ios", "objective-c"]
+tags = ["ios"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://itunes.apple.com/us/app/gastrograph-review/id923512201?mt=8"
 
 # Does the project detail page use math formatting?
 math = false
-
 +++
