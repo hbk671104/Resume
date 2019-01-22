@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "教学"
+title = "其它成就"
 subtitle = ""
 widget = "custom"
 
@@ -14,6 +14,10 @@ weight = 70
 
 +++
 
-BK曾经在以下课程担任过助教(TA)的角色:
+BK 曾经在以下课程担任过助教(TA)的角色:
 
 - [IST 297D: Introduction to Application Development](https://ist.psu.edu/node/1071)
+
+BK 完成过以下在线课程的学习:
+
+- [Cryptography I](https://www.coursera.org/account/accomplishments/certificate/V5F2WL87H6DW)
